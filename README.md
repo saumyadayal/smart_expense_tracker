@@ -92,14 +92,10 @@ Travel: ₹500 (66.67%)
 
 ## 👩‍💻 Author
 
-**Your Name**
+**Saumya Dayal**
 BTech CSE (AIML) Student
+Course: Programming in Java (Capstone Project)
 
 ---
 
-## ⭐ Show Your Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
-
----
 
